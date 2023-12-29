@@ -1,4 +1,4 @@
-import sqlite3
+""" import sqlite3
 
 # Conectar ao banco de dados
 conn = sqlite3.connect('Projeto_aprimorado.db')
@@ -58,4 +58,4 @@ for row in cursor:
     print(f'Nome: {row[0]}, Idade: {row[1]}, Cidade: {row[2]}')
 
 # Fechar a conexão
-conn.close()
+conn.close() """
